@@ -19,7 +19,7 @@ div > p {
 	color: white; /* i have no idea if this is right lol */
 	margin-left: 20px;
 }
-a > div {
+#catButtonButton {
 	background-color: white;
 	height: 200px;
 	width: 200px;
