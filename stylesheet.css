@@ -32,6 +32,9 @@ div > p {
 	font-size: 15px;
 	text-decoration: none;
 }
+#clubPenguin {
+	padding: 20px 20px 20px 20px
+}
 /* used to test the link html {
 	background-color: red;
 }*/
