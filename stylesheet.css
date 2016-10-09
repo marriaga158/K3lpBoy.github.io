@@ -37,6 +37,10 @@ div > p {
 	background-color: #aeeae8; /* probably a better way of making it transparent but idek */
 	border: 0px solid #aeeae8;
 }
+#steam {
+	width: 40px;
+	height: 40px;
+}
 /* used to test the link html {
 	background-color: red;
 }*/
