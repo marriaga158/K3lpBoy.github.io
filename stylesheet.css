@@ -28,8 +28,9 @@ div > p {
 }
 #catButton {
 	color: black;
-	font-family: Courier;
+	font-family: Arial;
 	font-size: 7px;
+	text-decoration: none;
 }
 /* used to test the link html {
 	background-color: red;
