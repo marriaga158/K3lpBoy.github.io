@@ -14,6 +14,9 @@ p {
 h1 {
 	font-family: Arial;
 }
+div > p {
+	color: white; /* i have no idea if this is right lol */
+}
 /* used to test the link html {
 	background-color: red;
 }*/
