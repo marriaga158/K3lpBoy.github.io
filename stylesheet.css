@@ -21,14 +21,15 @@ div > p {
 }
 a > div {
 	background-color: white;
-	height: 40px;
-	width: 60px;
+	height: 200px;
+	width: 200px;
 	text-align: right;
 	margin-right: 20%;
 }
 #catButton {
 	color: black;
 	font-family: Courier;
+	font-size: 7px;
 }
 /* used to test the link html {
 	background-color: red;
