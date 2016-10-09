@@ -5,10 +5,13 @@ div {
 	border: 2px solid black;
 }
 html {
-	background-color: red;
+	background-color: #aeeae8;
 }
 p {
 	margin-right: 200px;
+	font-family: Arial;
+}
+h1 {
 	font-family: Arial;
 }
 /* used to test the link html {
