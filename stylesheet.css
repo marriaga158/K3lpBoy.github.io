@@ -19,6 +19,17 @@ div > p {
 	color: white; /* i have no idea if this is right lol */
 	margin-left: 20px;
 }
+a > div {
+	background-color: white;
+	height: 40px;
+	width: 60px;
+	text-align: right;
+	margin-right: 20%;
+}
+#catButton {
+	color: black;
+	font-family: Courier;
+}
 /* used to test the link html {
 	background-color: red;
 }*/
