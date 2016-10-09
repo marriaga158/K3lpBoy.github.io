@@ -4,6 +4,13 @@ div {
 	width: 100px;
 	border: 2px solid black;
 }
+html {
+	background-color: #34cbc7;
+}
+p {
+	margin-right: 200px;
+	font-family: Arial;
+}
 /* used to test the link html {
 	background-color: red;
 }*/
