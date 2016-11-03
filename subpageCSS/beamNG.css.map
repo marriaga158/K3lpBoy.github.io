@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACJ,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,OAAO;;EACnB,UAAU,EAAE,mDAAmD;;EAC/D,UAAU,EAAE,sDAAqD;;EACjE,UAAU,EAAE,oDAAmD;;EAC/D,MAAM,EAAE,2GAA2G;;;ACJpH,EAAG;EACF,WAAW,EAAE,6BAA6B;EAC1C,KAAK,EAAE,kBAAkB",
+"sources": ["../variables/_pagebackground.scss","beamNG.scss"],
+"names": [],
+"file": "beamNG.css"
+}
