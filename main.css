@@ -35,6 +35,7 @@ ul.navigation {
 
 li {
   /* classify this, I may want other lists later on */
-  display: inline; }
+  display: inline;
+  padding: 5px 10px; }
 
 /*# sourceMappingURL=main.css.map */
