@@ -22,12 +22,16 @@ html {
   padding-bottom: 20px;
   padding-left: 10px;
   margin-right: 50%;
-  text-align: center; }
+  text-align: center;
+  margin-top: 40px; }
 
 ul.navigation {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: rgba(255, 255, 255, 0.6); }
+  background-color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  font-family: 'Open Sans', serif;
+  display: inline; }
 
 /*# sourceMappingURL=main.css.map */
